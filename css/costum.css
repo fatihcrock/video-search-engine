@@ -1,0 +1,113 @@
+
+body {
+    padding-top: 70px;
+}
+.imagebla {
+    background: url("images/redd.jpg") repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+footer {
+    margin: 50px 0;
+}
+.fiximage {
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
+}
+.player {
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    left: 0;
+    margin-top: 100px;
+    overflow: hidden;
+    position: relative;
+    vertical-align: top;
+}
+#videos .thumbnail {
+    overflow: hidden;
+    position: relative;
+    text-align: center !important;
+}
+#videos .thumbnail:hover {
+    opacity: 1;
+}
+#videos .caption {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+    color: #fff !important;
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+#videos .sticyimage {
+    bottom: 0;
+    height: 45px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+    position: absolute;
+    right: 0;
+}
+#loading-indicator {
+    height: 25px;
+    left: 50%;
+    margin: -28px 0 0 -25px;
+    position: absolute;
+    top: 50%;
+    width: 34px;
+}
+.spanvideoTitle {
+    background-color: #6fb1d4;
+    border-radius: 0;
+    display: inline-block;
+}
+.youtube-con {
+    background: url("img/sprite.png") no-repeat scroll -36px -47px rgba(0, 0, 0, 0);
+    height: 40px !important;
+    width: 76px;
+}
+.chrome-con {
+    background: url("img/sprite.png") no-repeat scroll -71px -352px rgba(0, 0, 0, 0);
+    height: 20px;
+    width: 20px;
+}
+.daily-con {
+    background: url("img/sprite.png") no-repeat scroll -7px -1451px rgba(0, 0, 0, 0);
+    height: 20px !important;
+    width: 112px;
+}
+.vimeo-con {
+    background: url("img/sprite.png") no-repeat scroll -7px -1472px rgba(0, 0, 0, 0);
+    height: 25px !important;
+    width: 84px !important;
+}
+.pre-con {
+    background: url("img/sprite.png") no-repeat scroll -20px -731px rgba(0, 0, 0, 0);
+    height: 24px;
+    width: 16px;
+}
+.video-title {
+    background-color: #3071a9;
+    color: #fff;
+    display: inline-block;
+    height: 42px;
+    left: 10px;
+    margin-bottom: 10px;
+    padding: 12px 20px;
+}
+.colors {
+    background-color: #fff;
+    border-left: 9px solid #3071a9;
+    color: #333;
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 7px 17px;
+}
+
+
+.mbYTP_wrapper {
+  background: url("http://www.getgoingtoday.org/images/template/grid.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+
+}
