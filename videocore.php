@@ -15,6 +15,8 @@
 		
 
 
+
+
 		} 
 
 
@@ -29,6 +31,8 @@
 
 		}
 		public function set_reklam($reklam){
+
+			
 
 
 			$this->reklam= $this->_cleankeywords($reklam);
