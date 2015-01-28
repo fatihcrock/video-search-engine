@@ -131,8 +131,8 @@
 
 			require_once('vimeo/vimeo.php');
  
-			$key = "0b8e248dbb828205d522a321e52d642a1b83fc9b";
-			$secret = "bfba17404444f0ce9962c0b0a349ac55b5ce43bd";
+			$key = "0b8e248dbb82----------642a1b83fc9b";
+			$secret = "bfba1740444----------a349ac55b5ce43bd";
 			$limit = 20; 
 
 
@@ -175,11 +175,7 @@
 
 
 		
-       //  http://alkislarlayasiyorum.com/etiket/akdeniz/video/encokizlenen/yil/2
-
-		//Application ID: ea0dc803ca4d4f9185f459692420fb6d
-
-		//Application password: b264e80202b44f47a9360e293b0eeba4
+  
 
 		public function bas($me){
 
