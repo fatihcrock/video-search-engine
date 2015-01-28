@@ -5,9 +5,7 @@ This script help you search videos from youtube,vimeo,dailymontion and watch the
 
 
 ```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
+You can see the demo page at -  [Demo ](http://moreyazilim.com/video/)
 ```
 
 
